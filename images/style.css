@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+}
+
+.img-container{
+    width: 60%;
+    min-height: 60vh;
+    background: url("images/cat1.jpg");
+}
